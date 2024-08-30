@@ -22,4 +22,4 @@ export class PhonePipe implements PipeTransform {
 
   }
 
-}
+} 
